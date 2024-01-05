@@ -1,7 +1,5 @@
 # Multi-Neural
 
-# Multi-Neural
-
 ### Screenshot of Landing Page:
 ![image](https://github.com/MainakRepositor/Multi-Neural/assets/64016811/97f68ac5-e041-444e-bd4d-b369225f110a)
 
